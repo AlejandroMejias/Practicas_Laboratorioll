@@ -1,0 +1,7 @@
+C:\Users\aleja\source\repos\Mejias.Alejandro\Ejercicio_Guia_3\bin\Debug\Ejercicio_Guia_3.exe.config
+C:\Users\aleja\source\repos\Mejias.Alejandro\Ejercicio_Guia_3\bin\Debug\Ejercicio_Guia_3.exe
+C:\Users\aleja\source\repos\Mejias.Alejandro\Ejercicio_Guia_3\bin\Debug\Ejercicio_Guia_3.pdb
+C:\Users\aleja\source\repos\Mejias.Alejandro\Ejercicio_Guia_3\obj\Debug\Ejercicio_Guia_3.csproj.AssemblyReference.cache
+C:\Users\aleja\source\repos\Mejias.Alejandro\Ejercicio_Guia_3\obj\Debug\Ejercicio_Guia_3.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\Mejias.Alejandro\Ejercicio_Guia_3\obj\Debug\Ejercicio_Guia_3.exe
+C:\Users\aleja\source\repos\Mejias.Alejandro\Ejercicio_Guia_3\obj\Debug\Ejercicio_Guia_3.pdb
